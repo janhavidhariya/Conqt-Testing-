@@ -1,0 +1,306 @@
+{
+	"info": {
+		"_postman_id": "4e0b36d5-9e13-40de-b90f-73aa949d9ee6",
+		"name": "ConQT",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36870650"
+	},
+	"item": [
+		{
+			"name": "https://www.conqt.com/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.conqt.com/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"conqt",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "https://www.conqt.com/",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://www.conqt.com/",
+							"protocol": "https",
+							"host": [
+								"www",
+								"conqt",
+								"com"
+							],
+							"path": [
+								""
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "html",
+					"header": [
+						{
+							"key": "Content-Type",
+							"value": "text/html"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 10 Jul 2024 11:22:05 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "AmazonS3"
+						},
+						{
+							"key": "Last-Modified",
+							"value": "Tue, 26 Dec 2023 08:48:47 GMT"
+						},
+						{
+							"key": "Cache-Control",
+							"value": "public, max-age=0, s-maxage=2"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "ETag",
+							"value": "W/\"a34951e4f1e4784828c20056bc106c92\""
+						},
+						{
+							"key": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"key": "X-Cache",
+							"value": "Miss from cloudfront"
+						},
+						{
+							"key": "Via",
+							"value": "1.1 bcfffcf7e0fc8cd9cfe4125369a9f036.cloudfront.net (CloudFront)"
+						},
+						{
+							"key": "X-Amz-Cf-Pop",
+							"value": "IAD12-P3"
+						},
+						{
+							"key": "Alt-Svc",
+							"value": "h3=\":443\"; ma=86400"
+						},
+						{
+							"key": "X-Amz-Cf-Id",
+							"value": "gEcxfXNHVZZV-in9n0M6MRoyhwo2tnwJ9uiOc_BObuY4ncWKtTAfgA=="
+						}
+					],
+					"cookie": [],
+					"body": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"/favicon.svg\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><link rel=\"apple-touch-icon\" href=\"/logo192.png\"/><link rel=\"manifest\" href=\"/manifest.json\"/><link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap\" rel=\"stylesheet\"/><link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC\" crossorigin=\"anonymous\"/><link href=\"https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap\" rel=\"stylesheet\"><script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-231815177-1\"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag(\"js\",new Date),gtag(\"config\",\"UA-231815177-1\")</script><script defer=\"defer\" src=\"/static/js/main.c201a18b.js\"></script><link href=\"/static/css/main.cf409f0d.css\" rel=\"stylesheet\"></head><body><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-K63PDSR\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script type=\"text/javascript\">var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date;!function(){var e=document.createElement(\"script\"),t=document.getElementsByTagName(\"script\")[0];e.async=!0,e.src=\"https://embed.tawk.to/62fb7a3937898912e9634afc/1gaj5asls\",e.charset=\"UTF-8\",e.setAttribute(\"crossorigin\",\"*\"),t.parentNode.insertBefore(e,t)}()</script><script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM\" crossorigin=\"anonymous\"></script><script src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js\" integrity=\"sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p\" crossorigin=\"anonymous\"></script><script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js\" integrity=\"sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF\" crossorigin=\"anonymous\"></script></body></html>"
+				}
+			]
+		},
+		{
+			"name": "https://www.conqt.com/view-all-product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.conqt.com/view-all-product",
+					"protocol": "https",
+					"host": [
+						"www",
+						"conqt",
+						"com"
+					],
+					"path": [
+						"view-all-product"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://www.conqt.com/view-all-product",
+							"protocol": "https",
+							"host": [
+								"www",
+								"conqt",
+								"com"
+							],
+							"path": [
+								"view-all-product"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "html",
+					"header": [
+						{
+							"key": "Content-Type",
+							"value": "text/html"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 10 Jul 2024 10:59:07 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "AmazonS3"
+						},
+						{
+							"key": "ETag",
+							"value": "W/\"a34951e4f1e4784828c20056bc106c92\""
+						},
+						{
+							"key": "Last-Modified",
+							"value": "Tue, 26 Dec 2023 08:48:47 GMT"
+						},
+						{
+							"key": "Cache-Control",
+							"value": "public, max-age=0, s-maxage=2"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"key": "X-Cache",
+							"value": "Miss from cloudfront"
+						},
+						{
+							"key": "Via",
+							"value": "1.1 bcfffcf7e0fc8cd9cfe4125369a9f036.cloudfront.net (CloudFront)"
+						},
+						{
+							"key": "X-Amz-Cf-Pop",
+							"value": "IAD12-P3"
+						},
+						{
+							"key": "Alt-Svc",
+							"value": "h3=\":443\"; ma=86400"
+						},
+						{
+							"key": "X-Amz-Cf-Id",
+							"value": "djqZxE7AkFx45L0axaHvaZ5lCD2e1rph2YQIntZa04YR6PpKX9scuA=="
+						}
+					],
+					"cookie": [],
+					"body": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"/favicon.svg\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><link rel=\"apple-touch-icon\" href=\"/logo192.png\"/><link rel=\"manifest\" href=\"/manifest.json\"/><link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap\" rel=\"stylesheet\"/><link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC\" crossorigin=\"anonymous\"/><link href=\"https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap\" rel=\"stylesheet\"><script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-231815177-1\"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag(\"js\",new Date),gtag(\"config\",\"UA-231815177-1\")</script><script defer=\"defer\" src=\"/static/js/main.c201a18b.js\"></script><link href=\"/static/css/main.cf409f0d.css\" rel=\"stylesheet\"></head><body><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-K63PDSR\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script type=\"text/javascript\">var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date;!function(){var e=document.createElement(\"script\"),t=document.getElementsByTagName(\"script\")[0];e.async=!0,e.src=\"https://embed.tawk.to/62fb7a3937898912e9634afc/1gaj5asls\",e.charset=\"UTF-8\",e.setAttribute(\"crossorigin\",\"*\"),t.parentNode.insertBefore(e,t)}()</script><script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM\" crossorigin=\"anonymous\"></script><script src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js\" integrity=\"sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p\" crossorigin=\"anonymous\"></script><script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js\" integrity=\"sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF\" crossorigin=\"anonymous\"></script></body></html>"
+				}
+			]
+		},
+		{
+			"name": "https://www.conqt.com/AWS-Cloud-Storage",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.conqt.com/AWS-Cloud-Storage",
+					"protocol": "https",
+					"host": [
+						"www",
+						"conqt",
+						"com"
+					],
+					"path": [
+						"AWS-Cloud-Storage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.conqt.com/faqs  ",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.conqt.com/faqs  ",
+					"protocol": "https",
+					"host": [
+						"www",
+						"conqt",
+						"com"
+					],
+					"path": [
+						"faqs  "
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.conqt.com/conqt-university  ",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.conqt.com/conqt-university  ",
+					"protocol": "https",
+					"host": [
+						"www",
+						"conqt",
+						"com"
+					],
+					"path": [
+						"conqt-university  "
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "APIs https://dev-api.conqt.com/api/product/Get-All-Products",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://dev-api.conqt.com/api/product/Get-All-Products",
+					"protocol": "https",
+					"host": [
+						"dev-api",
+						"conqt",
+						"com"
+					],
+					"path": [
+						"api",
+						"product",
+						"Get-All-Products"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
